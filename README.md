@@ -23,19 +23,7 @@ Duration: Total Duration - in minutes or number of seasons
 Listed_in: Genre
 Description: The summary description
 
-# Insights
-
-Content Distribution: Movies make up approximately 70% of Netflix's content, while TV shows account for 30%.
-
-Top Directors: Rajiv Chilaka is the leading director on Netflix, followed by Jan Sutar.
-
-Release Year Trends: The distribution of release years is right-skewed, indicating that most content has been released in the past decade.
-
-Peak Release Year: The highest number of releases occurred in 2018.
-
-Content Rating: The majority of the content is rated TV-MA, suggesting a focus on mature audiences.
-
-# Recommendations 
+# Insights 
 1. United states holds the top place for both Movies and Tv shows based on count of number of movies and Tv shows.
 2. 27th followed by 24th week of a year is best time to launch a movie and TV show.
 3. Best month to launch a movie and Tv show is JULY followed by JUNE.
